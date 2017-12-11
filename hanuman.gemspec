@@ -3,11 +3,11 @@
 Gem::Specification.new do |spec|
   spec.name          = "hanuman"
   spec.version       = "0.2.0"
-  spec.authors       = ["Samanyou Garg"]
-  spec.email         = ["samanyugarg@gmail.com"]
+  spec.authors       = ["voizer2"]
+  spec.email         = ["voizer2@gmail.com"]
 
   spec.summary       = %q{A responsive, lightning-fast Jekyll theme built using AMP (Accelerated Mobile Pages) to speed up your blogs and websites.}
-  spec.homepage      = "https://github.com/samanyougarg/hanuman"
+  spec.homepage      = "https://voizer.github.io/aaz/"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select do |f|
